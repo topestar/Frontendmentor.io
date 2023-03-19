@@ -13,7 +13,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -54,8 +53,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@topestar](https://www.frontendmentor.io/profile/topestar)
-- Twitter - [@topestarr](https://www.twitter.com/topestarr)
+- Frontend Mentor - [topestar](https://www.frontendmentor.io/profile/topestar)
+- Twitter - [topestarr](https://www.twitter.com/topestarr)
 
 
 
