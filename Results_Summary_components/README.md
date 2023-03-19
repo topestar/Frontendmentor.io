@@ -26,7 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_2.jpg>
+
+![Web (Active) View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_3.jpg
+
+![Mobile View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_1.jpg>
+
 
 
 ### Links
@@ -45,7 +50,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Favicon]https://www.w3schools.com/html/html_favicon.asp - This helped me understand how to put favicon on my page.
+- [Favicon](https://www.w3schools.com/html/html_favicon.asp) - This helped me understand how to put favicon on my page.
 
 ## Author
 
