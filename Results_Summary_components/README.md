@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Web View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_2.jpg>
+[Web View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_2.jpg>
 
-![Web (Active) View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_3.jpg
+[Web (Active) View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_3.jpg>
 
-![Mobile View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_1.jpg>
+[Mobile View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_1.jpg>
 
 
 
