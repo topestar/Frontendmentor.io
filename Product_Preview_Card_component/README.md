@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-## Web View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%201.png>
+## Web View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%201.png></img>
 
-## Web (Active) View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%202.png>
+## Web (Active) View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%202.png></img>
 
-## Mobile View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%203.png>
+## Mobile View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%203.png></img>
 
 
 
