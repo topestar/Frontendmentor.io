@@ -1,4 +1,4 @@
-# Frontend Mentor - Product Preview Card Component solution
+# Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-## Web View <img src= <img src="/images/Screenshot 1.png" alt="web view">
+## Web View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%201.png>
 
-## Web (Active) View <img src= <img src="/images/Screenshot 2.png" alt="web (active) view">
+## Web (Active) View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%202.png>
 
-## Mobile View <img src= <img src="/images/Screenshot 3.png" alt="mobile view">
+## Mobile View <img src= https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%203.png>
 
 
 
@@ -55,3 +55,6 @@ Users should be able to:
 
 - Frontend Mentor - [topestar](https://www.frontendmentor.io/profile/topestar)
 - Twitter - [topestarr](https://www.twitter.com/topestarr)
+
+
+https://github.com/topestar/Frontendmentor.io/blob/8bb08e9d2a6de9352e5f55f9b3174406bcea6af6/Product_Preview_Card_component/images/Screenshot%201.png
