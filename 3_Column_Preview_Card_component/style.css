@@ -1,0 +1,199 @@
+
+:root{
+    /* colors */
+
+    --color-bright-orange: hsl(31, 77%, 52%);
+    --color-dark-cyan:  hsl(184, 100%, 22%);
+    --color-vdark-cyan: hsl(179, 100%, 13%);
+
+
+}
+
+/* CSS Reset */
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    font-size: 15px;
+
+}
+*{
+    margin: 0;
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Lexend Deca', sans-serif;
+}
+html, body{
+    height: 100%;
+
+}
+body{
+    line-height: 1.5;
+    color: white;
+}
+p,h1,h2,h3,h4{
+    overflow-wrap: break-word;
+    
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+button, a{
+    font-family: inherit;
+}
+
+/* main styling */
+
+body{
+    background-color: white;
+    width: 400px;
+    margin: 3rem auto;
+    
+}
+
+.card-one{
+    background-color: var(--color-bright-orange);
+    border-radius: 10px;
+    padding: 3rem;
+    margin: 1rem;
+}
+.card h1{
+    font-family:'Big Shoulders Display';
+    font-weight: 700;
+    font-size: 2.3rem;
+
+}
+
+.card-title{
+    text-transform: uppercase;
+    padding: 1.3rem 0rem;
+
+}
+.card-content p{
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+a{
+    text-decoration: none;
+    color: var(--color-bright-orange);
+}
+button{
+    padding: .7rem 1.8rem;
+    margin-top:1.2em;
+    border: 1px solid;
+    border-color: hsl(39, 96%, 37%);
+    border-radius: 50px;
+    
+}
+.card-two{
+    background-color: var(--color-dark-cyan);
+    padding: 3rem;
+    margin: 1rem;
+    margin-top: -2rem;
+}
+.card-two button{
+    border-color: var(--color-vdark-cyan);
+    
+}
+.card-two a{
+    color: var(--color-dark-cyan);
+}
+.card-three{
+    background-color: var(--color-vdark-cyan);
+    padding: 3rem;
+    margin: 1rem;
+    margin-top: -1rem;
+    border-radius: 0px 0px 10px 10px;
+}
+.card-three button{
+    border-color: var(--color-vdark-cyan);
+    
+}
+.card-three a{
+    color: var(--color-dark-cyan)
+}
+@media screen and (min-width: 700px) {
+
+    body{
+        width: 1040px;
+        height: 100px;
+        margin: 15rem auto;
+    }
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.card-two{
+    background-color: var(--color-dark-cyan);
+    padding: 3rem;
+    margin: 1rem;
+    margin-left: -1rem;
+
+    
+}
+.card-three{
+    background-color: var(--color-vdark-cyan);
+    padding: 3rem;
+    margin: 1rem;
+    margin-left: -2rem;
+    border-radius: 0px 10px 10px 0px;
+}
+.card-one{
+    border-radius: 10px 0px 0px 10px;
+    font-size: 1.1p;
+}
+.card-one p{
+    font-size: 1.183rem;
+}
+
+.attribution{
+    position: relative;
+    top: 10rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-size: 15px; 
+    text-align: center;
+}
+
+
+}
+.card-one button:hover{
+    background-color:var(--color-bright-orange);
+    border-color: white;
+}
+.card-two button:hover{
+    background-color:var(--color-dark-cyan);
+    border-color: white;
+}
+.card-three button:hover{
+    background-color: var(--color-vdark-cyan);
+    border-color: white;
+}
+.card button a:hover{
+    color: white;
+}
+
+
+.attribution{
+    position: relative;
+    top: 2rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-size: 15px; 
+    text-align: center;
+}
+
+
+.attribution a{
+    text-decoration:solid;
+    color: rgb(4, 116, 243);
+}
+.attribution a:hover{
+    color: orange;}
+
