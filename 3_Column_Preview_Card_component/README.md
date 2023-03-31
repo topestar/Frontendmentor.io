@@ -24,18 +24,18 @@ Users should be able to:
 
 ### Screenshot
 
-![Web View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_2.jpg>
+Web View <img src=https://github.com/topestar/Frontendmentor.io/blob/4e6a8e5aa63b73ce42bc83704724d3744328a9e1/3_Column_Preview_Card_component/images/Screenshot%201.png> 
 
-![Web (Active) View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_3.jpg
+Web (Active) View <img src=https://github.com/topestar/Frontendmentor.io/blob/4e6a8e5aa63b73ce42bc83704724d3744328a9e1/3_Column_Preview_Card_component/images/Screenshot%202.png>
 
-![Mobile View]<img src=https://github.com/topestar/Frontendmentor.io/blob/25a9ac7008e77ca29b121d308563bd50f9d1c8c9/Results_Summary_components/images/Screenshot_1.jpg>
+Mobile View <img src=https://github.com/topestar/Frontendmentor.io/blob/4e6a8e5aa63b73ce42bc83704724d3744328a9e1/3_Column_Preview_Card_component/images/Screenshot%203.png>
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
+- Live Site URL: [Netlify](https://3-column-preview-t004.netlify.app/)
 
 ## My process
 
